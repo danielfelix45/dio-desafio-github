@@ -1,0 +1,12 @@
+	# SCRUM
+
+	- Apenas 20% de um software é usado pelo cliente ou usuário, sendo 7% (sempre) e 13% frequentemente
+os outros 80% é dividido em 45% (Nunca), 19% (raramente) e 16% (ás vezes).
+
+	# Cerimônias do SCRUM
+	<ol>
+	  <li>Planejamento da Sprint</li>
+	  <li>Reuniões diárias</li>
+	  <li>Review</li>
+	  <li>Restropectivas</li>
+	</ol> 

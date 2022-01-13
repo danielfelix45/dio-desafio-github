@@ -1,0 +1,10 @@
+	# Pilares
+	## Decomposição - Reconhecimento de padrões - Abstração e Algoritmos.
+
+	# Criar um App:
+	<ol>
+	  <li>Finalidade</li>
+	  <li>Interface</li>
+	  <li>Funcionalidades</li>
+	  <li>Pré-requisitos</li>
+	</ol>
